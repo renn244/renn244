@@ -57,7 +57,6 @@ https://github.com/user-attachments/assets/cf290172-ef17-4c92-b5d5-a3be1e87e565
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=renn244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn244&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
